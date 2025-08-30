@@ -7,4 +7,6 @@
    true = boolean
    "33" = string
    3.1415 = double
-32)
+32)By adding that option into the source code
+35)object, its class is book
+36)Yes, because an object can be more than 1 specific thing
